@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and perfect narrative of the late terrible and bloody murther of Sr. Edmondberry Godfrey who was found murthered on Thursday the 17th. of this instant October, in a field near Primrose Hill. With a full accompt of the manner of his being murthered, and in what manner he was found. Also, the full proceedings of the coroner, who sat upon the inquest, &amp;c. With allowance.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A71145</idno>
+            <idno type="STC">Wing T2534</idno>
+            <idno type="STC">ESTC R221795</idno>
+            <idno type="EEBO-CITATION">99833052</idno>
+            <idno type="PROQUEST">99833052</idno>
+            <idno type="VID">37527</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A71145)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37527)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2158:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and perfect narrative of the late terrible and bloody murther of Sr. Edmondberry Godfrey who was found murthered on Thursday the 17th. of this instant October, in a field near Primrose Hill. With a full accompt of the manner of his being murthered, and in what manner he was found. Also, the full proceedings of the coroner, who sat upon the inquest, &amp;c. With allowance.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the heir of Andrew Anderson, printer to the Kings most Sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>annno Dom. 1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Heavy print show-through.</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Godfrey, Edmund Berry, --  Sir, 1621-1678 --  Early works to 1800.</term>
+               <term>Popish Plot, 1678 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37527:1"/>
+            <!-- PDF PAGE 25 -->
+            <pb facs="tcp:37527:1"/>
+            <!-- PDF PAGE 25 -->
+            <p>A True and perfect NARRATIVE Of the late Terrible and Bloody Murther of Sir <hi>Edmondberry Godfrey;</hi>
+            </p>
+            <p>Who was found Murthered on <hi>Thurſ<g ref="char:EOLhyphen"/>day</hi> the 17th. of this Inſtant <hi>October,</hi> in a Field near <hi>Primroſe-Hill.</hi>
+            </p>
+            <p>WITH A full Accompt of the manner of his being Murthered and in what manner he was found.</p>
+            <p>ALSO, The full Proceedings of the Coroner, who ſat upon the Inqueſt, &amp;c.</p>
+            <p>With Allowance.</p>
+            <p>
+               <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Re-printed by the <hi>Heir</hi> of <hi>Andrew Anderſon,</hi> Printer to the Kings moſt Sacred Majeſty, <hi>Anno Dom.</hi> 1678.</p>
+            <pb facs="tcp:37527:2"/>
+            <!-- PDF PAGE 26 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:37527:3"/>
+            <!-- PDF PAGE 27 -->
+            <pb n="3" facs="tcp:37527:3"/>
+            <!-- PDF PAGE 27 -->
+            <head>A true and perfect Relation of that Hor<g ref="char:EOLhyphen"/>rid and Bloody Murder committed upon the Body of Sir <hi>Edmondberry Godfrey.</hi>
+            </head>
+            <p>SIR <hi>Edmundberry Godfrey's</hi> Death being the ſad occaſion of this Narrative, and the Subject of moſt peoples Diſcourſe: I ſhall (to prevent any falſe or ſurreptitious Stories that are uſually carried abroad about things of this nature) give the Reader this true and impartial account thereof.</p>
+            <p>On the 12th. of this inſtant <hi>October,</hi> being Saturday, about Nine of the Clock in the Morning, Sir <hi>Edmund<g ref="char:EOLhyphen"/>berry Godfrey</hi> went out of his own Houſe in <hi>Greens-lane</hi> in the <hi>Strand</hi> about his Occaſions: And was ſeen not long after near <hi>Marybone,</hi> but then ſuppoſed to be going home; and was at one of the Church-Wardens of the Pariſh of St. <hi>Martins in the Fields</hi> about ſome buſineſs at twelve of the Clock the ſame day: But ſo it was, that he came not to his own Houſe that night, according to his uſual Cuſtom, nor gave any notice to his Servants of
+<pb n="4" facs="tcp:37527:4"/>
+               <!-- PDF PAGE 28 -->any buſineſs that he had to hinder his returning that night. And from that time till Thurſday the 17th of the ſame Moneth about, ſix a Clock at night, no tydings could be heard of him (although all earneſt and diligent Inquiries and Searches were made for him) At which time his Dead Body was found dead in a Ditch upon the South ſide of <hi>Primeroſe-hill</hi> near <hi>Hampſte<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d.</hi> The occaſion of his being found was this: One <hi>Promley</hi> a Baker, and <hi>Waters</hi> a Farrier, both of the Pariſh of St. <hi>Giles in the Fields,</hi> having an occaſion to go to the Houſe, commonly called the <hi>Whitehouſe</hi> near <hi>Primeroſe-hill;</hi> and going over the Field where the Body of Sr. <hi>Edmundberry</hi> lay, ſaw, as they thought, a ſword and Belt, and a ſtick and a pair of Gloves lying together hard by the Hedge-ſide, but they went not near to meddle with them, ſuppoſing they had belong'd to ſome perſon that was gone into the Ditch to eaſe himſelf. And when they came to the <hi>White-houſe,</hi> they told <hi>John Rawſon</hi> (the man of the ſaid Houſe) that they had ſeen a Sword and belt, and a Pair of Gloves and Stick lye in that place: Whereupon <hi>John Rawſon</hi> asked them, why they did not bring them thither: They told him they did not know but there might be ſome Body hard by to own them: <hi>Rawſon</hi> told them again; That there had been ſeveral Soldiers thereabout this Week a Hedghog-hunting, and it may be (ſaid he) ſome of them may have left them behind them.</p>
+            <p>After ſome further Diſcourſe, <hi>Rawſon</hi> agreed to go with the two men to the place, and if they found the things there, then, <hi>Rawſon</hi> was to give them a Shilling
+<pb n="5" facs="tcp:37527:4"/>
+               <!-- PDF PAGE 28 -->to Drink, and was to take the things to his own Houſe, till ſome body came thither to own them: and there<g ref="char:EOLhyphen"/>upon they went together to the place: When they came there, they found only a Belt and a Scabbard, and a Stick, and a pair of Gloves, but no Sword: which as <hi>Rawſon</hi> was ſtooping to take up, he thought he ſaw ſome thing like a Man in the Ditch hard by, and ſo go<g ref="char:EOLhyphen"/>ing to the Ditch, there they ſaw a Man lying, as they ſuppos'd upon his Belly, with a Sword run thorow him, and the point appearing about Seven or Eight Inches above his back: Upon this, they went immediatly to the Church-Warden of the Pariſh, to give him an ac<g ref="char:EOLhyphen"/>count of it; but he being Sick, ſent them to Mr. <hi>Brown</hi>'s the Conſtable, who preſently taking with him ſeveral Neighbours and Houſe-keepers, went to the place where the Body lay: Which was in a dry Ditch upon the South ſide of <hi>Primeroſe-hill,</hi> about two Fields diſtant from the <hi>White-houſe:</hi> The Poſture in which he lay was this, he had a Sword run into him juſt under his left Pap, which came out upon the Right ſide of his back, about Seven or Eight Inches, one of his Hands being doubled under, on which he ſeemed to Lean, the other Hand lying upon the bank, his Hair Chamlet Coat being turned up over his Head; his Hat and Perriwig being among the Buſhes over his Head, but no Band nor Cravat could be found about him; although when he went from Home, he had a large Lac'd Band on.</p>
+            <p>The Conſtable and the reſt that were with him, be<g ref="char:EOLhyphen"/>ing about a dozen, having taken good notice of the man<g ref="char:EOLhyphen"/>ner of his lying, cauſed him to be removed, the
+<pb n="6" facs="tcp:37527:5"/>
+               <!-- PDF PAGE 29 -->Sword drawn out of his Body; concerning which Sword it is obſervable, that the point of it which came out at his back was covered all over with blood, and that part which was in his Body was black, without any blood upon it.</p>
+            <p>The Conſtable having caus'd the Body to be removed to the <hi>White Houſe,</hi> and knowing it to be the Body of Sir <hi>Edmondberry Godfrey,</hi> he cauſed his Pockets to be ſearched, and found in one of them, in one Paper ſix Guineys, and in another paper four broad pieces of Gold, and a half Crown; and in the other Pocket two Rings, whereof one was a Diamond, one Guiney, and four pound in Silver, and two ſmall pieces of Gold, and one Ring he had upon one of his fingers: His Pocket Book (in which he uſed to take notes of Examination) being only miſſing.</p>
+            <p>One <hi>Friday</hi> the 18th of this inſtant, Mr. <hi>Cooper</hi> the Coronor of <hi>Midleſex,</hi> impannel'd a Jury at the <hi>White-Houſe</hi> to inquire about the occaſion of the death of the ſaid Sir <hi>Edmondberry:</hi> and two Chyrurgions, (having been firſt Sworn) viewed the Body in the preſence of the Coronor and the Jury; and found two wounds about it, which one of the Chyrurgions ſearched with his Probe; and found one of them not above an inch deep, the Probe going againſt one of his Ribs; but the other being a little below the left Pap, went quite thorow the Body: his Face was of a freſh colour, though in his life time very pale, ſomewhat ſwell'd, and a green circle about his Neck, as if he had been ſtrangled, his blood be<g ref="char:EOLhyphen"/>ing ſettled about his Neck, Throat, and the upper part of
+<pb n="7" facs="tcp:37527:5"/>
+               <!-- PDF PAGE 29 -->his Breſt: The Chyrurgions having viewed the Body, delivered their Judgements, That the wounds they found about him, were not the cauſe of his death, but that he was ſuffocated before the wounds were made. And that which may fully perſwade any perſon of the truth thereof, is, That there was not one drop of blood to be found in the place where he lay, nor the leaſt appearance of any ſuch thing; though the Ditch was dry, and it might have been eaſily ſeen, if there had been any. Another thing was, that the very bottom of the ſoles of his Shoes were as clean as if he had but juſt come out of his own Cham<g ref="char:EOLhyphen"/>ber, which was an evident ſign that he was carried thi<g ref="char:EOLhyphen"/>ther.</p>
+            <p>A third thing very remarkable, is, That one of the Jury affirmed, That a Servant of his Mothers (who is owner of the ground where the Body lay) with a But<g ref="char:EOLhyphen"/>cher and two Boys, made a very ſtrict and narrow ſearch in all parts of that ground for a Calf that was miſ<g ref="char:EOLhyphen"/>ſing, upon <hi>Munday</hi> and <hi>Tueſday</hi> laſt, and at that time there lay no dead Body, Belt, Gloves, Stick, or other things there.</p>
+            <p>Now becauſe ſeveral falſe Reports have gone abroad, tending to the Diſhonour of this worthy Deceaſed Knight, as though he had been diſcontented about ſome Moneys owing by him to the Pariſh, and upon that ac<g ref="char:EOLhyphen"/>count ſhould make himſelf away: The Relator thinks good to teſtifie to the World, That to his own knowledge Sir <hi>Edmondberry</hi> lent to the Pariſh above 300 <hi>l.</hi> without Intereſt, a good part of which is yet unpaid, ſo pal<g ref="char:EOLhyphen"/>pable
+<pb n="8" facs="tcp:37527:6"/>
+               <!-- PDF PAGE 30 -->an untruth it is, that ſome wicked perſons have ſpread abroad about him. But it is no wonder that thoſe inhumane Wretches that have taken away his life, ſhould go alſo about to blaſt his Reputation.</p>
+            <p>One thing more I cannot omit to mention, having re<g ref="char:EOLhyphen"/>ceived it from the mouth of one of the Church-Wardens of the Pariſh where he lived, which is, That Sir <hi>Edmond<g ref="char:EOLhyphen"/>berry</hi> not long ago gave him an hundred pound to beſtow upon ſuch poor People in the Pariſh as he knew were in want: Neither wa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that the firſt time that Sir <hi>Edmond<g ref="char:EOLhyphen"/>berry</hi> had imployed him in works of that nature, having often made him the diſtributer of his Charity, becauſe he did not deſire the applauſe of men for it. This with<g ref="char:EOLhyphen"/>out all doubt proceeded from ſo remarkable and ſo ſincere a piety, That though it may be commended, I am afraid it will ſcarce be imitated.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37527:6"/>
+            <!-- PDF PAGE 30 -->
+         </div>
+      </body>
+   </text>
+</TEI>
